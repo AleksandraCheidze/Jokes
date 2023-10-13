@@ -1,0 +1,22 @@
+.jokeCard {
+    font-size:40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+    text-align: center;
+   }
+   
+   body {
+       background-color: #f0cad8;
+   }
+   
+   .title {
+       text-align: center;
+       font-size: large;
+       font-family: 'Times New Roman', Times, serif;
+       color: rgb(26, 191, 8);
+   }
+   
+   .smiley-container {
+       margin-left: 1000px;
+       margin-top: -50px;
+   }
